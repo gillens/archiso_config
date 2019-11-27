@@ -1,0 +1,8 @@
+emacs
+gcc
+gdb
+make
+screen
+tmux
+vim
+valgrind
